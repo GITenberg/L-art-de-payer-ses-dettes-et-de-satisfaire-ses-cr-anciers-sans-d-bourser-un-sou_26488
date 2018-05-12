@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32042'
     url: http://www.gutenberg.org/2009/agents/32042
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26488#L-art-de-payer-ses-dettes-et-de-satisfaire-ses-cr-anciers-sans-d-bourser-un-sou
 gutenberg_bookshelf: FR Humour
 gutenberg_issued: '2008-08-30'
 gutenberg_type: Text
